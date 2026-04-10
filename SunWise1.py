@@ -16,7 +16,7 @@ from datetime import datetime
 # =============================================================================
 
 API_URL = "http://localhost:3001/api|brx-J1YBVGN-8Q94CN2-MPH7XK4-DJN7ENZ"
-API_KEY = "QM8SETY-HJS4CSD-G51HH09-7HW2TDP"
+API_KEY = "J1YBVGN-8Q94CN2-MPH7XK4-DJN7ENZ"
 
 TIMEOUT = 60
 NOMBRE_ASISTENTE = "Asistente Solar ZNI"
